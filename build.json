@@ -1,0 +1,5 @@
+{
+    "title": "HeroFest Dash",
+    "name": "heroFest",
+    "sources": ["constants.js", "booth.js", "bug.js", "player.js", "ui.js", "game.js"]
+}
